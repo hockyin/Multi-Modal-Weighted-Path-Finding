@@ -1,0 +1,8 @@
+code,description,seat_capacity,standing_capacity,length
+1,bus in rural areas,20,40,30
+2,bus in small cities,20,40,30
+3,bus in core cities,40,80,30
+4,s-bahn,150,250,100
+5,tram,60,60,30
+6,u-bahn,150,250,100
+7,regional,300,100,200
